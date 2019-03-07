@@ -1,7 +1,5 @@
 package com.dreamthought.algorithmix.service.algorithm;
 
-import com.dreamthought.algorithmix.configuration.BasicModule;
-import com.google.inject.AbstractModule;
 import com.google.inject.Guice;
 import com.google.inject.Inject;
 import com.google.inject.Injector;
